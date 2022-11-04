@@ -1,0 +1,19 @@
+﻿  Source.cpp
+C:\Users\irene\OneDrive\Escritorio\P3_Gauss\P3_Gauss\Source.cpp(23,13): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\irene\OneDrive\Escritorio\P3_Gauss\P3_Gauss\Source.cpp(24,13): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\irene\OneDrive\Escritorio\P3_Gauss\P3_Gauss\Source.cpp(25,22): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\irene\OneDrive\Escritorio\P3_Gauss\P3_Gauss\Source.cpp(28,13): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\irene\OneDrive\Escritorio\P3_Gauss\P3_Gauss\Source.cpp(137,33): warning C4244: '+=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\irene\OneDrive\Escritorio\P3_Gauss\P3_Gauss\Source.cpp(140,12): warning C4244: 'return': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\irene\OneDrive\Escritorio\P3_Gauss\P3_Gauss\Source.cpp(178,34): warning C4244: '=': conversión de 'float' a 'short'; posible pérdida de datos
+C:\Users\irene\OneDrive\Escritorio\P3_Gauss\P3_Gauss\Source.cpp(254,51): warning C4244: '=': conversión de 'float' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=uchar
+          ]
+  Generando código
+  1 of 85 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  P3_Gauss.vcxproj -> C:\Users\irene\OneDrive\Escritorio\P3_Gauss\x64\Release\P3_Gauss.exe
